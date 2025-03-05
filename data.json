@@ -1,0 +1,47 @@
+[
+    {
+        "title": "The Future of AI",
+        "content": "Artificial intelligence is rapidly evolving and impacting various industries.",
+        "category": "Technology",
+        "author": "John Doe",
+        "image": "https://example.com/ai-image.jpg",
+        "createdAt": "2025-02-15T10:00:00Z",
+        "updatedAt": "2025-02-15T10:00:00Z"
+    },
+    {
+        "title": "Top 10 Healthy Foods",
+        "content": "A balanced diet is essential for a healthy lifestyle. Here are the top 10 foods you should include in your meals.",
+        "category": "Health",
+        "author": "Jane Smith",
+        "image": "https://example.com/healthy-food.jpg",
+        "createdAt": "2025-02-14T09:30:00Z",
+        "updatedAt": "2025-02-14T09:30:00Z"
+    },
+    {
+        "title": "Travel Guide: Exploring Paris",
+        "content": "Paris is known for its rich culture, food, and architecture. Here’s a complete guide for your trip.",
+        "category": "Travel",
+        "author": "Emily Johnson",
+        "image": "https://example.com/paris-travel.jpg",
+        "createdAt": "2025-02-13T12:45:00Z",
+        "updatedAt": "2025-02-13T12:45:00Z"
+    },
+    {
+        "title": "Investing in Cryptocurrency",
+        "content": "Cryptocurrency investments have become increasingly popular. Here’s what you need to know.",
+        "category": "Finance",
+        "author": "Michael Brown",
+        "image": "https://example.com/crypto-invest.jpg",
+        "createdAt": "2025-02-12T08:15:00Z",
+        "updatedAt": "2025-02-12T08:15:00Z"
+    },
+    {
+        "title": "Best Coding Practices",
+        "content": "Writing clean and efficient code is essential for any developer. Here are some best practices to follow.",
+        "category": "Programming",
+        "author": "Chris Wilson",
+        "image": "https://example.com/coding.jpg",
+        "createdAt": "2025-02-11T14:20:00Z",
+        "updatedAt": "2025-02-11T14:20:00Z"
+    }
+]
